@@ -10,7 +10,6 @@
 .navbar .LeftSide{
     /* flex: 50%; */
     height: 100%;
-    background-color: blue;
     display: flex;
     align-items: center;
     padding-left: 150px;

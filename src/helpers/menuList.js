@@ -1,6 +1,6 @@
-import Pepperoni from "../assets/Pepperoni Pizza.jpg";
+import Pepperoni from "../assets/PepperoniPizza.jpg";
 import Margarita from "../assets/Margherita.jpg";
-import PedroTechSpecial from "../assets/Pedrotech special.jpg";
+import PedroTechSpecial from "../assets/Pedrotechspecial.jpg";
 import Vegan from "../assets/Vegan.jpg";
 import Pineapple from "../assets/Pineapple.jpg";
 import Expensive from "../assets/Margherita.jpg";

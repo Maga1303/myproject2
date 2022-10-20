@@ -8,7 +8,7 @@ function Menu(){
         <div className="menu">
             <h1 className="menuTitle">Our menu</h1>
             <div className="menuList">{MenuList.map((menuItem, key)=>{
-                return <menuItem 
+                return <MenuItem 
                 key={key}
                 image={menuItem.image}  
                 name={menuItem.name} 
